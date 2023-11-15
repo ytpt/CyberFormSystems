@@ -1,0 +1,15 @@
+export const constants = {
+    POSTS_PER_PAGE: 10,
+    BASE_URL: "https://jsonplaceholder.typicode.com/posts",
+    fetchPosts: "Подтянуть посты",
+    prev: "Назад",
+    next: "Вперёд",
+    page: "Страница",
+    loading: "Загрузка",
+    post: "пост",
+    home: "Домой",
+    notFoundTitle: "Страница не найдена!",
+    notFoundText: "Простите, мы не нашли страницу, которую Вы искали.",
+    searchValue: "Название поста",
+    postNotFound: "Пост не найден:(",
+};
